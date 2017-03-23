@@ -5,3 +5,6 @@ for i in range(repeat_num):
     print ("Hello, world!!!!!")
     print ("Hello, Dimitri!")
     print (" gimme gimme Chiken tendies ")
+    print ("Hello, Abdullah!!!!!")
+    print ("Hello, Victor!!!!!")
+    print ("SHARAZ")
